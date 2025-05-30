@@ -7,8 +7,7 @@ Website pembelajaran interaktif tugas project mata kuliah Pendidikan Agama Islam
 
 ## Fitur Utama
 
-- **Slide Presentasi** - 5 tampilan slide materi pembelajaran
-- **Materi PPT** - Presentasi Canva yang dapat diakses langsung
+- **Materi PPT** - tampilan slide materi pembelajaran yang dapat diakses langsung
 - **Game Edukasi** - 5 permainan interaktif berbasis Wordwall:
   1. Huruf Hijaiyah
   2. Melengkapi Ayat dalam Surat Alquran
