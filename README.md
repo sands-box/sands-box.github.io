@@ -3,7 +3,7 @@
 
 ![Banner Preview](images/slide01.jpg)
 
-Website pembelajaran interaktif untuk mata kuliah Pendidikan Agama Islam di Universitas Sebelas Maret (UNS).
+Website pembelajaran interaktif tugas project mata kuliah Pendidikan Agama Islam di Universitas Sebelas Maret (UNS).
 
 ## Fitur Utama
 
